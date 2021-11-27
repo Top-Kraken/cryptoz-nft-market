@@ -1,2 +1,10 @@
 # cryptoz-nft-market
-NFT Auction Marketplace
+Hardhat solidity NFT market specific for Cryptoz Minting platform services
+
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
